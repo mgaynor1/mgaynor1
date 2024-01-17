@@ -1,6 +1,7 @@
 ### Hi there 👋
+My name is Shelly and I am currently a Ph.D. candidate in the Soltis Lab at the University of Florida. I study whole-genome duplication in angiosperms. If you are looking for nQuack - it is coming soon!
 
-If you are looking for nQuack - it is coming!
+I am a current [iDigBio](https://www.idigbio.org/) Research Assistant. You can find a [round-up of my biodiversity informatics work here](https://github.com/mgaynor1/BiodiversityResources). 
 
 <!--
 **mgaynor1/mgaynor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
