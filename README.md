@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Shelly and I just finished my Ph.D. in the Soltis Lab at the University of Florida. In the fall, I'll be starting an NSF Postdoctoral Research Fellowship in Biology with the University of Kentucky (Rosana Zenil-Ferguson) and the University of Michigan (Stephen A. Smith). I study whole-genome duplication in angiosperms. See [my research site for more about me.](https://mlgaynor.com/)
+My name is Shelly and I just finished my Ph.D. in the Soltis Lab at the University of Florida. In the fall, I'll start an NSF Postdoctoral Research Fellowship in Biology with the University of Michigan (Dr. Stephen A. Smith). I study whole-genome duplication in angiosperms. See [my research site for more about me.](https://mlgaynor.com/)
 
 I am a current [iDigBio](https://www.idigbio.org/) Research Assistant. You can find a [round-up of my biodiversity informatics work here](https://github.com/mgaynor1/BiodiversityResources). 
 
@@ -10,6 +10,7 @@ Some of my recent projects:
   - [nataliepatten/gatoRs](https://github.com/nataliepatten/gatoRs/): Geographic and taxonomic occurrence R-based scrubbing. [pkgdown site](https://nataliepatten.github.io/gatoRs/). Published in [Applications in Plant Science](https://doi.org/10.1002/aps3.11575).
   - [mgaynor1/BiologyPhDStipends](https://github.com/mgaynor1/BiologyPhDStipends): Shiny app for Biology Ph.D. stipend benchmarking. [Interactive website](https://rhettrautsaw.app/shiny/BiologyPhDStipends/). Covered by Nature.
 
+Want to collaborate? Send me an email at shellyleegaynor at gmail.
 
 <!--
 **mgaynor1/mgaynor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
