@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Shelly and I just finished my Ph.D. in the Soltis Lab at the University of Florida. I am currently NSF Postdoctoral Research Fellowship in Biology with the University of Michigan (Dr. Stephen A. Smith). I study whole-genome duplication in angiosperms. See [my research site for more about me.](https://mlgaynor.com/)
+My name is Shelly and I just finished my Ph.D. in the Soltis Lab at the University of Florida. I am currently a NSF Postdoctoral Research Fellow in Biology with the University of Michigan (Dr. Stephen A. Smith). I study whole-genome duplication in angiosperms. See [my research site for more about me.](https://mlgaynor.com/)
 
 I was an [iDigBio](https://www.idigbio.org/) Research Assistant. You can find a [round-up of my biodiversity informatics work here](https://github.com/mgaynor1/BiodiversityResources). 
 
