@@ -10,9 +10,14 @@ Some of my recent projects:
   - [nataliepatten/gatoRs](https://github.com/nataliepatten/gatoRs/): Geographic and taxonomic occurrence R-based scrubbing. [pkgdown site](https://nataliepatten.github.io/gatoRs/). Published in [Applications in Plant Sciences](https://doi.org/10.1002/aps3.11575).
   - [mgaynor1/BiologyPhDStipends](https://github.com/mgaynor1/BiologyPhDStipends): Shiny app for Biology Ph.D. stipend benchmarking. [Interactive website](https://rhettrautsaw.app/shiny/BiologyPhDStipends/). Covered by Nature.
 
+I contributed to: 
+ - [fkyeeb/H2O](https://github.com/fkyeeb/H2O): A python package to convert homolog to ortholog trees. Developed by Keyi Feng. 
+
+
 Coming Soon:
   - mgaynor1/nQuackAI: The next version of nQuack.
   - mgaynor1/MCPop: A collection of functions used to analyze mixed-cytotype data.
+  - mgaynor1/AutoCoal: Autopolyploidy coalescence.
 
 
 Want to collaborate? Send me an email at shellyleegaynor at gmail.
